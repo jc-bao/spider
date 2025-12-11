@@ -1,4 +1,4 @@
-# 🚧 This repository is under internal review. Estimated release date: Nov 27 - Dec 10.
+# SPIDER is open sources here: https://github.com/facebookresearch/spider
 
 <h1 align="center">🕸️ SPIDER: Scalable Physics-Informed DExterous Retargeting</h1>
 
