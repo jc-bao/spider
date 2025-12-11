@@ -1,4 +1,4 @@
-# SPIDER is open sources here: https://github.com/facebookresearch/spider
+# SPIDER is open sourced here: https://github.com/facebookresearch/spider
 
 <h1 align="center">🕸️ SPIDER: Scalable Physics-Informed DExterous Retargeting</h1>
 
